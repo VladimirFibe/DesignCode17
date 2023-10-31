@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  DesignCode17
-//
-//  Created by Vladimir Fibe on 31.10.2023.
-//
-
 import SwiftUI
 
 struct ContentView: View {
